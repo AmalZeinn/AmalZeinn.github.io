@@ -1,17 +1,24 @@
 # Amal Zein 
 ### Data Science & Machine Learning ٍ Specialist
 
-Welcome to my portfolio! I am a passionate Data Science Specialist, specializing in building predictive models and data-driven solutions.
-
+Welcome to my portfolio! I am a passionate Data Science Specialist, specializing in building predictive models and data-driven solutions that empower strategic decision-making.
 
 
 ##  Featured Projects
 
-###  Car Price Prediction Web App
-*Developed a full-stack ML application to estimate used car prices.*
-* **Key Results:** 84.38% R2 Score | 94.85% Training Accuracy.
-* **Tech Stack:** Python, Flask, Random Forest, Scikit-learn.
-* [ View Project on GitHub](https://github.com/AmalZeinn/Car-Price-Prediction)
+###  Used Car Price Prediction (End-to-End Web App)
+*A full-stack machine learning solution featuring a predictive engine integrated with a functional web interface.*
+
+#### **Technical Deep Dive:**
+* **Preprocessing Pipeline:** Handled categorical variables and performed feature engineering to improve model sensitivity to car specifications.
+* **Model Excellence:** Optimized a **Random Forest Regressor** to handle non-linear relationships, achieving a **94.85% Training Accuracy** and an **84.38% R2 Score** on unseen data.
+* **Web Deployment:** Built a responsive web interface using **Flask (Python)**, allowing users to input car details (Year, Mileage, Fuel Type) and receive real-time price estimates.
+* **Full-Stack Integration:** Connected the trained `.pkl` model with a frontend UI (HTML/CSS) to bridge the gap between Data Science and User Experience.
+
+#### **Key Performance:**
+* Successfully reduced prediction error, making the tool reliable for automated business pricing systems.
+
+[ View Project & Web App Code on GitHub](https://github.com/AmalZeinn/Car-Price-Prediction)
 
 ###  Telco Customer Churn Prediction (Classification)
 *An end-to-end project to identify at-risk customers and provide actionable business insights.*
